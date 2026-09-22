@@ -20,7 +20,7 @@
   <header>
     <h1>Gen AI Usage Perceptions</h1>
     <p class="subtitle">
-      Add a response in <a href="https://tinyurl.com/y5ss6tck" target="_blank">https://tinyurl.com/y5ss6tck</a>
+      Submit Another Response: <a href="https://tinyurl.com/y5ss6tck" target="_blank">https://tinyurl.com/y5ss6tck</a>
     </p>
     <div class="status">
       <span class="dot" class:live={!data.error}></span>
